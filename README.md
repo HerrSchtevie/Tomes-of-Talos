@@ -152,13 +152,12 @@ Before you begin, make sure you meet the following **hard requirements**:
 3. **Launch Wabbajack**
    - Open Wabbajack.
    - Click the **Modlists Browser** tab.
-   - In the **upper-left corner**, enable both:
+   - In the **upper-left corner**, enable:
      - ✅ **Show Unofficial Lists**
-     - ✅ **Show NSFW Lists**
-   - Use the search bar to find **Journals of Jyggalag (JOJ)**.
+   - Use the search bar to find **Tomes of Talos**.
 
 4. **Select the Modlist**
-   - Click on **Journals of Jyggalag**.
+   - Click on **Tomes of Talos**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives (can be on any drive).  
            📦 Requires approximately **245 GB of free space**.
@@ -289,7 +288,7 @@ Controller support is fully integrated into JOJ — but all related mods are **d
 1. Scroll to the **`Controller Support`** separator in MO2 (highlighted in blue).
 2. **Enable all of the following mods**:
    - `Gamepad++`
-   - `JOJ - Custom Stances - Controller`
+   - `TOT - Custom Stances - Controller`
    - `Wheeler - Quick Action Wheel Of Skyrim`
    - `Wheeler CTD-Fix`
    - `Dragonborn - Wheeler Reskin`
@@ -367,9 +366,9 @@ If you encounter issues:
 
 ## 💬 Thank You
 
-Thank you for taking the time to install and experience **Journals of Jyggalag**. This project is a passion-driven labor of love built on the shoulders of an incredible modding community.
+Thank you for taking the time to install and experience **Tomes of Talos**. This project is a passion-driven labor of love built on the shoulders of an incredible modding community.
 
-Whether you're here for the lore, the visuals, the chaos, or the adult content — I truly appreciate you choosing JOJ as your journey through Skyrim.
+Whether you're here for the lore, the visuals, the chaos, or the adult content — I truly appreciate you choosing TOT as your journey through Skyrim.
 
 If you enjoyed the list, consider joining the [Discord](https://discord.gg/8ZCa7w8BZQ), sharing your screenshots, and helping others in the community. Your feedback, bug reports, and kind words help keep this project alive and growing.
 
