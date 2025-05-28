@@ -35,7 +35,7 @@ Tomes of Talos is a lore-rich, SFW Skyrim modlist spun from the foundations of J
 
 - **Quest Mods:**  
   TOT includes a massive lineup of lore-rich, fully patched quests that expand Skyrim’s world with new factions, dungeons, and narratives. Major entries include:  
-  Legacy of the Dragonborn, The Forgotten City, VIGILANT, Project AHO, Wyrmstooth, Glenmoril, Unslaad, Carved Brink, The Tools of Kagrenac, The Gray Cowl of Nocturnal, Sirenroot, Olenveld, DaCoda, Moon and Star, Legends of Aetherium, Heart of the Reach, Ascend, Sleepwalking into a Nightmare — and many more.
+  - Legacy of the Dragonborn, The Forgotten City, VIGILANT, Project AHO, Wyrmstooth, Glenmoril, Unslaad, Carved Brink, The Tools of Kagrenac, The Gray Cowl of Nocturnal, Sirenroot, Olenveld, DaCoda, Moon and Star, Legends of Aetherium, Heart of the Reach, Ascend, Sleepwalking into a Nightmare — and many more.
 
 - **Combat:**  
   Features custom stances inspired by WoLong, For Honor, and Elden Ring movesets, full BFCO integration, and a suite of enemy balance and difficulty tweaks. The combat system supports a challenging but fair experience where any playstyle is viable—battlemage, stealth archer, heavy melee, dual wield, and more. 
