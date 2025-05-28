@@ -274,7 +274,7 @@ Tomes of Talos includes full widescreen support with UI presets for all major as
   - `TOT - 21x9 UI Patch` → for ultrawide (21:9)
   - `TOT - 32x9 UI Patch` → for super ultrawide (32:9)
 
- ![image](https://github.com/user-attachments/assets/e7f5649a-6ba4-4567-9f4a-2fbdb0bc26f1)
+![image](https://github.com/user-attachments/assets/1769223b-4126-49ea-b934-ad37a91590c0)
 
 
 > Do not enable multiple resolution patches. Choose the one that fits your monitor setup.
@@ -295,7 +295,7 @@ Controller support is fully integrated into TOT — but all related mods are **d
    - `Dragonborn - Wheeler Reskin Edge UI Colors`
    - `Complete Controller Setup`
   
-  ![image](https://github.com/user-attachments/assets/8f058580-3922-4d30-8c0f-1fa9ad8cfaa6)
+![image](https://github.com/user-attachments/assets/4243afaa-5768-4dee-8288-bb745fa11163)
 
 3. In the **right-side plugin pane**, locate the following plugins and drag them into the correct plugin groups:
    - `Gamepad++` → move to the **User Interface** group
