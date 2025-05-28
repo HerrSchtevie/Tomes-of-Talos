@@ -1,6 +1,6 @@
 # Tomes of Talos (TOT)
 
-![splash](![TOT wabba cover](https://github.com/user-attachments/assets/761ca5c9-e4f4-4b16-9c87-6f5fc3da401b)
+(![TOT wabba cover](https://github.com/user-attachments/assets/761ca5c9-e4f4-4b16-9c87-6f5fc3da401b)
 
 ---
 
