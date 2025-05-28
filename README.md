@@ -243,7 +243,7 @@ You can select your profile from the **dropdown in the upper-left corner of MO2*
 For more information on controller support, NPC management, and running essential tools, check out the following:
 
 - 🎮 [Controller Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Controller%20Guide.md)  
-  Step-by-step instructions for setting up controller support in JOJ.
+  Step-by-step instructions for setting up controller support in TOT.
 
 - 🧑‍🤝‍🧑 [Easy NPC Guide](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/Easy%20NPC%20Guide.md)  
   A complete walkthrough on managing and customizing NPC appearances using EasyNPC.
@@ -283,7 +283,7 @@ Tomes of Talos includes full widescreen support with UI presets for all major as
 
 ### 🎮 Controller Support (Optional)
 
-Controller support is fully integrated into JOJ — but all related mods are **disabled by default** so players can opt in manually. To enable controller support:
+Controller support is fully integrated into TOT — but all related mods are **disabled by default** so players can opt in manually. To enable controller support:
 
 1. Scroll to the **`Controller Support`** separator in MO2 (highlighted in blue).
 2. **Enable all of the following mods**:
