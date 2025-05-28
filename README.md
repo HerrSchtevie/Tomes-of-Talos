@@ -259,7 +259,7 @@ For more information on controller support, NPC management, and running essentia
 
 ## 🧠 Getting Started Guide
 
-Before diving into your playthrough, take a moment to configure the list to match your setup. Whether you're using ultrawide resolutions or a controller, Journals of Jyggalag v3.0 is built to adapt — but it expects you to pick your setup and stick with it.
+Before diving into your playthrough, take a moment to configure the list to match your setup. Whether you're using ultrawide resolutions or a controller, Tomes of Talos is built to adapt — but it expects you to pick your setup and stick with it.
 
 ---
 
@@ -309,7 +309,7 @@ Once enabled and properly sorted, you’ll have full access to enhanced controll
 
 ## ⚖️ Rule 11 – Modlist Modification Disclaimer
 
-By choosing to modify or tweak **Journals of Jyggalag (JOJ)** in any way — whether by adding mods, changing load order, editing settings, or rebuilding components — you are doing so at your own risk.
+By choosing to modify or tweak **Tomes of Talos (TOT)** in any way — whether by adding mods, changing load order, editing settings, or rebuilding components — you are doing so at your own risk.
 
 > 🛠️ **You have effectively voided your warranty.**
 
@@ -321,7 +321,7 @@ While we absolutely encourage learning and modding, please understand that:
 
 That said, we understand modding is fun and personal. If you're stuck after making changes, you may post in the `🛡️ Grey Aegis` channel on our [Discord server](https://discord.gg/8ZCa7w8BZQ). Help is not guaranteed — but if we can (and want to), we may offer guidance.
 
-Thank you for respecting the work that went into JOJ, and for being part of the community!
+Thank you for respecting the work that went into TOT, and for being part of the community!
 
 ➡️ [Here is the in-depth guide to help you out if you really want to modify the list.](https://github.com/HerrSchtevie/Journals-of-Jyggalag/blob/Guides/JOJ%20Rule%2011%20Guide.md)
 
@@ -360,7 +360,7 @@ If you encounter issues:
   A: **Anniversary Edition (AE) and Creation Kit are hard requirements.** This modlist will not work correctly with Standard Skyrim Special Edition (SSE), and will not download correctly without Creation Kit.
 
 - **Q: Where do I go for support?**  
-  A: Visit the Wabbajack Discord or Journals of Jyggalag Discord for assistance.
+  A: Visit the Wabbajack Discord or Scrolls of Schtevie Discord for assistance.
 
 ---
 
