@@ -341,11 +341,10 @@ If you encounter issues:
 
 ## 📸 Screenshots
 
-![Screenshot746](https://github.com/user-attachments/assets/24db3828-9f30-45d0-9bd5-7ce3261d65ad)
-![Screenshot746](https://github.com/user-attachments/assets/4a3131ff-cb3b-42fd-9441-7920610ad885)
-![SkyrimSE_2025-05-05_18-13-53](https://github.com/user-attachments/assets/9497cd29-0583-47ee-8844-59e180adce40)
-![Screenshot748](https://github.com/user-attachments/assets/961bed94-9a11-4bd9-ab82-a3d744678a5b)
-![image](https://github.com/user-attachments/assets/43647165-2094-4c42-a9c8-8cff2ada0c4a)
+![TOT_Promo_Compressed](https://github.com/user-attachments/assets/cf080ab4-5fd0-4918-ad9b-b50bd330e34a)
+![TOT_Lakeview_Compressed](https://github.com/user-attachments/assets/ffefe2ae-4455-46a6-be82-7d0f5202843a)
+![TOT_Whiterun_Compressed](https://github.com/user-attachments/assets/28969daa-d264-4bc8-bf4f-eff47d527caf)
+
 
 
 ## 🔗 Links
