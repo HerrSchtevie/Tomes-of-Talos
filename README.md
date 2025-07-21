@@ -4,6 +4,14 @@
 
 ---
 
+### 📎 Community
+
+| [Join our Discord](https://discord.gg/scrollsofschtevie) | [View on Nexus Mods](https://www.nexusmods.com/skyrimspecialedition/mods/154277) | [Support on Ko-fi](https://ko-fi.com/herrschtevie) | [Load Order Library](https://loadorderlibrary.com/lists/journals-of-jyggalag-2) | [Watch on Twitch](https://www.twitch.tv/herrschtevie) |
+|:--:|:--:|:--:|:--:|:--:|
+| Join the Community | View the Modlist | Buy Me a Coffee | View Full Load Order | Watch Live on Twitch |
+
+---
+
 ## 📖 Table of Contents
 - [📌 Introduction](#-introduction)
 - [📋 Features](#-features)
@@ -294,7 +302,7 @@ Controller support is fully integrated into TOT — but all related mods are **d
    - `Dragonborn - Wheeler Reskin Edge UI Colors`
    - `Complete Controller Setup`
   
-![image](https://github.com/user-attachments/assets/4243afaa-5768-4dee-8288-bb745fa11163)
+<img width="332" height="201" alt="image" src="https://github.com/user-attachments/assets/1d15ae2a-3acd-4688-ad12-4e13a766b3d6" />
 
 3. In the **right-side plugin pane**, locate the following plugins and drag them into the correct plugin groups:
    - `Gamepad++` → move to the **User Interface** group
