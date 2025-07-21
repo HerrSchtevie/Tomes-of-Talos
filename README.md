@@ -30,8 +30,8 @@ Tomes of Talos is a lore-rich, SFW Skyrim modlist spun from the foundations of J
 
 - **Four Unique Profiles Included:**  
   TOT offers two distinct profiles tailored to your preferred experience:  
-  - **Lord's Vision** – Full graphics
-  - **Performance** – Same content as Lord’s Vision with optimized graphics for lower-end PCs  
+  - **Lord's Vision** – Cabbage ENB﻿, Full graphics, and all features enabled  
+  - **Performance** – Community Shaders﻿, same gameplay experience with reduced graphics for smoother play on lower-end systems
 
 - **Quest Mods:**  
   TOT includes a massive lineup of lore-rich, fully patched quests that expand Skyrim’s world with new factions, dungeons, and narratives. Major entries include:  
@@ -77,7 +77,7 @@ High Graphics | Full Feature Set | Maximum Visuals
 | **Pagefile**  | 40GB                                                    | 40GB                                                 |
 | **Storage**   | SATA SSD                                                | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)         | NVIDIA RTX 4070 Ti / AMD RX 7800 XT (16 GB VRAM)    |
-| **Disk Space**| ~245GB Download / ~462GB Installed / ~707GB Total        | ~245GB Download / ~462GB Installed / ~707GB Total   |
+| **Disk Space**| ~241GB Download / ~436GB Installed / ~678GB Total        | ~241GB Download / ~436GB Installed / ~678GB Total   |
 
 ---
 
@@ -92,7 +92,7 @@ Optimized for Lower-End Hardware | Reduced Visual Load
 | **Pagefile**  | 40GB                                                 | 40GB                                                 |
 | **Storage**   | SATA SSD                                             | NVMe M.2 SSD                                         |
 | **GPU**       | NVIDIA RTX 2060 (6 GB VRAM) / AMD RX 5600 XT         | NVIDIA RTX 3060 Ti / AMD RX 6600 XT (8 GB VRAM)     |
-| **Disk Space**| ~245GB Download / ~462GB Installed / ~707GB Total   | ~245GB Download / ~462GB Installed / ~707GB Total   |
+| **Disk Space**| ~241GB Download / ~436GB Installed / ~678GB Total    | ~241GB Download / ~436GB Installed / ~678GB Total   |
 
 ---
 
@@ -160,10 +160,10 @@ Before you begin, make sure you meet the following **hard requirements**:
    - Click on **Tomes of Talos**.
    - Choose:
      - A **Download Location** – where Wabbajack will store mod archives (can be on any drive).  
-           📦 Requires approximately **245 GB of free space**.
+           📦 Requires approximately **241 GB of free space**.
 
      - An **Installation Location** – where the modlist will be fully installed and run from.  
-           💾 Requires approximately **462 GB of free space**.  
+           💾 Requires approximately **436 GB of free space**.  
            ⚠️ **This must be on an SSD** for performance and stability.
 
 5. **Start Installation**
@@ -209,8 +209,8 @@ You can select your profile from the **dropdown in the upper-left corner of MO2*
 
 | Profile Name                | Description                                                                 |
 |-----------------------------|-----------------------------------------------------------------------------|
-| **Lord’s Vision**           | Full graphical fidelity                                                     |
-| **Performance**             | Same content as Lord’s Vision, with reduced graphical settings              |
+| **Lord’s Vision**           | Cabbage ENB﻿, Full graphics, and all features enabled                        |
+| **Performance**             | Community Shaders﻿, same gameplay experience with reduced graphics for smoother play on lower-end systems       |
 
 > ⚠️ **IMPORTANT:** Once you choose a profile, **stick with it**.  
 > Do **not** switch between profiles mid-playthrough. Each profile uses its own:
@@ -288,7 +288,6 @@ Controller support is fully integrated into TOT — but all related mods are **d
 1. Scroll to the **`Controller Support`** separator in MO2 (highlighted in blue).
 2. **Enable all of the following mods**:
    - `Gamepad++`
-   - `TOT - Custom Stances - Controller`
    - `Wheeler - Quick Action Wheel Of Skyrim`
    - `Wheeler CTD-Fix`
    - `Dragonborn - Wheeler Reskin`
