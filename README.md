@@ -1,6 +1,6 @@
 # Tomes of Talos (TOT)
 
-![wallpaper 2](https://github.com/user-attachments/assets/06655b7f-f3d9-4ccf-a186-4207b45e358a)
+<img width="1024" height="1024" alt="TOT wabba cover" src="https://github.com/user-attachments/assets/f1ce907a-91c4-4bc8-a13b-340c40ad7ba9" />
 
 ---
 
