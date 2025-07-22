@@ -52,7 +52,7 @@ Tomes of Talos is a lore-rich, SFW Skyrim modlist spun from the foundations of J
   Fully integrated combinations of JK’s Skyrim, Cities of the North, and The Great Cities series — all patched for terrain, navmesh, AI paths, and visual consistency.
 
 - **Armor & Weapon Add-ons:**  
-  Includes a wide range of high-quality, lore-friendly armors (as well as NSFW armors/clothing) and weapons curated for visual consistency and seamless distribution across leveled lists.
+  Includes a wide range of high-quality, lore-friendly armors and weapons curated for visual consistency and seamless distribution across leveled lists.
 
 - **Comprehensive NPC Overhauls:**  
   Nearly every NPC in Skyrim has been visually enhanced using a curated blend of ColdSun’s Visions, Pandorables NPCs, Sons of Nirn, and other top-quality overhaul mods — all seamlessly integrated through a custom EasyNPC merge for maximum compatibility and consistency.
