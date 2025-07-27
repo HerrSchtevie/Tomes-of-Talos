@@ -1,6 +1,8 @@
 # Tomes of Talos (TOT)
 
-<img width="1024" height="1024" alt="TOT wabba cover" src="https://github.com/user-attachments/assets/f1ce907a-91c4-4bc8-a13b-340c40ad7ba9" />
+<p align="center">
+  <img src="https://github.com/HerrSchtevie/Scrolls-of-Schtevie/blob/main/TOT%20book.png?raw=true" alt="Tomes of Talos Book" width="512">
+</p>
 
 ---
 
